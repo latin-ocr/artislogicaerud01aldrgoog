@@ -1,0 +1,44 @@
+62 sarrs acoron
+
+(cum uterque terminus distribuatur) quodvis A
+differt a quovis Β. Ergo vicissim: Ergo Nullan
+B est Α. 2. Sit veraI: Ergo falsa est ejus Cou-
+tradiotoria E: Ergo et contradictoria simpliciter
+conversa: Ergo quae conversae contradicit, (i. e.
+expositae simpliciter conversa) est vera. 3. Sit
+vera E. Ergo et ejus simpliciter conversa: Ergo
+et conversae subalternata: quae est expositae con·
+versa per accidens. 4. Sit vera A; Ergo et ejus -P
+subalternata: Ergo et subalternatae simpliciter
+conversa: quae est expositae per Accidens&
+
+and therefore it will not be true that No A is B ; which was
+the original proposition. Aristotle does not assume the con-
+version of Ι to prove that of Ε, which would be arguing ina
+circle. For a fuller account, see Hamilton on Reid, p. 696.
+
+Alexander himself offers a third proof by syllogism in the
+first figure. No A is B, therefore No B is A; for suppose
+“SomeBisA‚’'and“NoAisB‚”.·SomeBisnotB.
+
+Having proved the conversios of E, those of A and Ι will
+follow from it. “All A is B, therefore Some B is A;'' or else
+No B is A, and therefore (by conversion) No A is B; whereas
+wc assumed All A is B. And again, Some A is B, therefore
+SomeBisA3 or else NoB is A, and therefore NoAis B.
+
+For these proofs, the only assumption necessary is the
+principle of contradiction. But proof of any kind is super-
+fluous. Conversion and other immediate inferences are
+necessary results of the laws of thought, equally evident
+and more direct than the mediate inferences by syllogism.
+Neither process is dependent on the other.
+
+θ In Conversion as in Opposition‚ Singular Propositions
+have been neglected by Aldrieh. Goncerning these, tho
+following extract from Wallis may assist the learner. ‘⁴ Pro·
+positio Scapulam, (sive Affirmativa sive Negativa) oum semper
+Universalic sit, observat leges aliarum Universalium. Puta,
+
+ 
+

@@ -1,0 +1,41 @@
+90 nnms nomon
+
+conclusio vel expositae eadem, vel eam inferens,
+vel praemissae contradictoria, utin exemplo.
+
+oEs Nullum A est B
+Ar Omne C est B: Ergo
+E NullumC est A.
+
+ad
+oE Nullum B' est A
+
+lA Omne C est B: Ergo
+rEnt Nullum C est A.
+
+dle AliquodB est A
+Am Omne B est C: Ergo
+Is AliquodC est A.
+
+ad
+
+dA Omne B est C
+rI AliquodA est B: Ergo
+I AliquodA est C.
+
+bAr Omne A est B ¹
+Olt Aliquod C non est B: Ergo
+O Aliquod Cnon est A.
+
+ad
+
+bAr Omne A est B
+bA Omne C est A: Ergo
+rA Omne C est Β.8
+
+‘Asohbishop Whately gives an ostensive reduction o
+Baroko ond Bokardo to Ferio and Darii, by converting ths
+mej0r premise byeontraposition. Logio, b. ii. o. 3. ξ. 5
+
+ 
+

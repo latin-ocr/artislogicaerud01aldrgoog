@@ -1,0 +1,41 @@
+APPENDlX.
+
+Nora H.
+
+on exeunte arvo anttoovL
+
+Extnrna is defined by Aristotle, “ proving the major
+term of the middle bya term resembling the minor·.”
+This definition is obscure, from being worded so as to
+contrast with his definition of Induction, in which the
+major term is proved of the middle by the minor. It
+does not apply to the singular conclusion ultimately
+established, but to the universal proposition which forms
+the conclusion cf the inductiva portion of the Exemplo.
+Thus, if we expand Aristotle’s instance into its complete
+form,''ccmposed of en imperfect induction and a syllo-
+gism, it will run thus:
+
+The war cf the Thebans and Phocians (D) was an
+evil (Α),
+The war of the Thebans and Phocians was a war between
+neighbours (Β),
+All wars between neighbours are evil.
+Α war· between the Atheniens and Thebans (O) is a war
+between neighbours.
+It is an evil.
+
+In this reasoning there are four terms, A the major, B the
+middle, 0 the minor, D the ὁμοῖον. The definition applies
+to the third proposition, in which A is proved ofB by
+means of D. If the final conclusion were taken into
+account, the Examplc might be more correctly defined
+as a reasoning in which the major term is proved of the
+minor by means of a middle, cf which middle the major
+has been proved by a term resembling the minor.
+
+⁸ Παράδειγμα δ’ ἐστὶν ὅταν τῷ μέσῳ rh ἄκρον ὑπάρχον δειχθῇ διὰ τοῦ ὁμοίου
+τῷ τρίτῳ. Auel. Pr. ii. 24. l.
+
+ 
+

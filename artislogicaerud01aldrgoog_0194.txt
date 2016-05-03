@@ -1,0 +1,41 @@
+RUDIMENTA.
+
+v. g. Si posita vel C vel D
+Subsumatur
+Sed C ergo non D
+D nonC
+non C ergo D
+non -D C
+
+Pro expositaDisjunctiva
+dic conditionaliter
+
+every disjunctive proposition. We may hoppen to lmow that
+two altematives cannot be true together, so that the affirmation
+of the second necessitates the denial of the first, and the
+affirmation of the first the denial of the second; but this, as
+Boethius observes, is a material, not a sonnol consequence,
+whether it be stated in the hypothetical or disjunctive iorm.
+It must be allowed that the examples sometimes adduced on
+this side of the question have not been very happily chosen.
+It sounds oddly enough to state a known truth as a possible
+falsehood, as in the instance, “ Bellum Trojonum cambit ccl
+Homerus ccl Virqilivn.'' But other and more natural specimens
+have been given; e. g. “ Ant olim Troja fuit, aut historio dc
+bello Trojano cst mero fabulo.” The case is still clearer when
+both members of the disjunctive are negative, as in the
+example given by Boethius, “Si enim quis dicat, autnon
+est album aut non est nigrum, sive album non esse as·
+sumpserit, non necesse erit esse vel non esse nigrum: sive
+nigrum non esse assumpserit, ut sit vel non sit album, nullam
+faciet necessitatem.” On this supposition only two of the
+above syllogisms are valid, which may be reduced to hypothe-
+ticals as follows:
+constructive. , Destructive.
+rrarsnotacrsn. rrarsnotacisn.
+ButAis not B. But C is not D.
+aCmD. *AmR
+For a further account, sce wallis, Log. Thes. 2.
+
+ 
+

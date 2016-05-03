@@ -1,0 +1,36 @@
+RUDIMENTA·
+
+cE NullumB est A
+ΖΑ Omne C est B: Ergo
+rEnt Nullum C est A.
+
+‹lA Omne B est A
+rI AliquodC est B: Ergo
+Ι AliquodC est A.
+
+sE NullumB est A
+rI AliquodC est B: Ergo
+Ο Aliquod Onon est A.
+
+A Omne B est A
+A Omne C est B: Ergo
+I AliquodC est A.
+
+Ε Nullum B est A
+A Omne C est B: Ergo
+Ο Aliquod Cnon est Α.
+
+ΙΙ.
+
+cEs Nullum A est B
+A Omne C est B: Ergo
+rE NullumC est A.
+
+cAm Omne A est B
+Es Nullum C est B: Ergo
+
+trEs Nullum C est Α.Ι
+G
+
+ 
+

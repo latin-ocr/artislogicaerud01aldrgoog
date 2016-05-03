@@ -1,0 +1,35 @@
+82⁴ . mum nomem
+
+on Nullum A est B
+tI AliquodC est B: Ergo'
+nO Aliquod Cnon est A.
+
+bAr Omne A *est B
+Olc Aliquod C nonest B: Ergo
+O Aliquod Cnon est A.
+
+E Nullum A est B
+A Omne C est B: Ergo
+O Aliquod Cnon est A.
+
+A A Omne A est B
+E Nullum 'C est B: Ergo
+, O Aliquod Cnon est A.
+
+ΙΙΙ.
+
+dAr Omne B est A
+Ap Omne B est'v C: Ergo
+ῖΙ AliquodC est A.
+
+fEl Nullum B est A
+Ap Omne ,B est C: Ergo
+tOn Aliquod C non est A.
+
+‘dIs AliquodB est A
+
+Am Omne B est C: Ergo
+Is AliquodC est A.
+
+ 
+
